@@ -5,15 +5,9 @@
 ## [Our Portfolio](https://night-x.com)
 
 **Organizations**:
->[NightNetwork](https://github.com/Night-N3twork)
+> [NightNetwork](https://github.com/Night-N3twork)
+
 > [NightProxy](https://github.com/NightProxy)
+
 > [NovaLabs](https://github.com/novadevlabs)
-
-
-
-
-
-
-
-
 
