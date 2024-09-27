@@ -14,8 +14,13 @@
 ## Meet Our Developers:
 
 > [Amplify](https://github.com/not-amplify)
+> 
 > [KDust7](httos://github.com/KDust7)
+> 
 > [Crllect](https://github.com/crllect)
+> 
 > [Silvereen](https://github.com/silvereengames)
+> 
 > [Technoalpha](https://github.com/technoalpha9)
-> [Skye](https://github.com](https://github.com/imm-stella)
+> 
+> [Skye](https://github.com/imm-stella)
