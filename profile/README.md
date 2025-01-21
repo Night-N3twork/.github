@@ -13,7 +13,7 @@
 
 > [Amplify](https://github.com/not-amplify)
 > 
-> [KDust7](httos://github.com/KDust7)
+> [KDust7](https://github.com/KDust7)
 > 
 > [Crllect](https://github.com/crllect)
 > 
