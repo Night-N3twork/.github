@@ -9,6 +9,10 @@
 
 > [NightProxy](https://github.com/NightProxy)
 
+> [Night Libraries](https://github.com/Night-Libs)
+
+> [Night Archive](https://github.com/Night-Archive) 
+
 ## Meet Our Developers:
 
 > [Amplify](https://github.com/not-amplify)
@@ -16,5 +20,7 @@
 > [KDust7](https://github.com/KDust7)
 > 
 > [Crllect](https://github.com/crllect)
-> 
+>
+> [Bearcat](https://github.com/bearcattt)
+>
 > [Silvereen](https://github.com/silvereengames)
