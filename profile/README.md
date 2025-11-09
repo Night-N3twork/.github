@@ -4,6 +4,10 @@
 
 ## [Our Portfolio](https://night-x.com)
 
+## [Our Gitlab](https://gitlab.com/nightnetwork/)
+
+Notice: Github has deleted DayDreamX & Space from NightProxy, the new source can be found under our Gitlab
+
 **Organizations**:
 > [NightNetwork](https://github.com/Night-N3twork)
 >
@@ -12,6 +16,8 @@
 > [Night Libraries](https://github.com/Night-Libs)
 >
 > [Night Archive](https://github.com/Night-Archive) 
+> 
+> [Obsidian Developer Labs](https://github.com/Obsidian-Dev-Labs)
 
 ## Meet Our Developers:
 
