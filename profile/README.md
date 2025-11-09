@@ -3,7 +3,6 @@
 # Night Network
 
 ## [Our Portfolio](https://night-x.com)
-
 ## [Our Gitlab](https://gitlab.com/nightnetwork/)
 
 Notice: Github has deleted DayDreamX & Space from NightProxy, the new source can be found under our Gitlab
